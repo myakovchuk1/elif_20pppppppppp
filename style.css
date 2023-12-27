@@ -1,0 +1,59 @@
+nav {
+    margin: 29px;
+    padding: 10px;
+    border: 2px solid #70db70;
+    border-radius: 10px;
+    background-color: #c2f0c2;
+}
+
+nav a {
+    margin: 60px;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: Fantasy;
+}
+
+header {
+    background-color: #d6f5d6;
+    color: #99e699;
+}
+
+body {
+    background-color: #ebfaeb;
+}
+
+body p {
+    color: #70db70;
+    font-family: Georgia;
+    font-size: 20px;
+}
+
+body img {
+    width: 250px;
+    height: 150px;
+}
+
+.treatss {
+    text-align: right;
+    background-color: #70db70;
+    color: #2eb82e;
+}
+
+body a {
+    color: #ebfaeb;
+}
+
+.healthh {
+    text-align: right;
+    background-color: #85e085;
+    color: #33cc33;
+}
+
+footer img {
+    width: 90px;
+    height: 90px;
+}
+
+footer {
+    text-align: center;
+}
